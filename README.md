@@ -1,6 +1,6 @@
 ### Attendance Management System
 
-The Attendance Management System is a simple database-driven solution built with Oracle SQL and PL/SQL for managing employee attendance, 
+This is a simple database-driven solution built with Oracle SQL and PL/SQL for managing employee attendance, 
 leave requests, and payroll. The system tracks employee attendance (clock-in and clock-out), processes leave requests, and calculates 
 payroll based on hours worked. It also includes stored procedures and triggers to automate payroll calculation and attendance management.
 
